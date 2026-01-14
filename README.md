@@ -2,7 +2,7 @@
 
 Steps tp running the small project:
 
-I recommend using vscode.
+I recommend using vscode:
 
 1- Install Git (if you have not already installed it).
 
@@ -19,7 +19,7 @@ cd Sowlutions-CoderByte-take-home-exercise
 
 5- after you successfully downloaded the extension, go to the index.html file, right click, and click on Open with Live server
 
-OR
+OR (insted of steps 4 & 5)
 
 you can alternatively, just in the folder when you have all the files for this project, you can open the index.html using any browser.
 
